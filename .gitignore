@@ -1,0 +1,11 @@
+target
+.settings
+.project
+.classpath
+logger
+test-output
+*.class
+.gradle
+gradlew
+
+
